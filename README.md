@@ -3,6 +3,9 @@
 <img src='https://avatars.githubusercontent.com/u/82190365?s=120&v=4'>
 </div>
 
+## Archive
+
+Databend has moved to [Mergify](https://github.com/datafuselabs/databend/blob/main/.github/mergify.yml) and [Release](https://github.com/datafuselabs/databend/blob/main/.github/workflows/databend-release.yml), not use fusebot anymore.
 
 ## What I Can
 
